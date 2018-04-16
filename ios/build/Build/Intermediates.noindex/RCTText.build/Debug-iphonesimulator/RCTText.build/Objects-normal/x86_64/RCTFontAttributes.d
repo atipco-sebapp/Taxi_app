@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/Data/React-native_Source/TaxiApp/node_modules/react-native/Libraries/Text/RCTFontAttributes.m \
+  /Volumes/Data/React-native_Source/TaxiApp/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Volumes/Data/React-native_Source/TaxiApp/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Data/React-native_Source/TaxiApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
